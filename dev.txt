@@ -3,4 +3,6 @@ welcome to languages
 2. java
 3. c
 
+4. c++
+5. cobol
 Thanks
